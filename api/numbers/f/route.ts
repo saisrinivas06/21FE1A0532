@@ -1,4 +1,4 @@
-const url = "http://20.244.56.144/test/f";
+const url = "http://20.244.56.144/test/fibo";
 
 const data = fetch(url)
    .then(res => {
